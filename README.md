@@ -1,28 +1,51 @@
-💻 Projeto: Sistema Bancário em Java
-Este é um projeto desenvolvido durante os estudos na plataforma Alura, como parte da formação em Java.
-Trata-se de um sistema bancário simples, com funcionalidades básicas simuladas por meio de um menu interativo no terminal.
+# 💻 Sistema Bancário em Java
 
-🛠️ Funcionalidades:
-Consulta de saldo;
+Projeto desenvolvido durante os estudos na plataforma **Alura**, como parte da formação em Java.
 
-Recebimento de valores (depósito);
+Este projeto simula um sistema bancário básico, com operações simples como consulta de saldo, depósito e transferência. Tudo isso rodando direto no terminal, utilizando a linguagem Java.
 
-Transferência de valores (com verificação de saldo disponível);
+---
 
-Encerramento do programa.
+## 📋 Funcionalidades
 
-🚀 Tecnologias utilizadas:
-Java
+- ✔️ Consultar saldo  
+- ✔️ Receber valor (depósito)  
+- ✔️ Transferir valor (com verificação de saldo)  
+- ✔️ Encerrar o programa
 
-IDE (ex: IntelliJ IDEA / Eclipse / VS Code)
+---
 
-Scanner para entrada de dados via console
+## 🚀 Tecnologias utilizadas
 
-📚 Aprendizados:
-Estruturas de controle (while, switch);
+- **Java 17** (ou superior)
+- `Scanner` para entrada de dados via console
+- IDE de sua preferência (IntelliJ IDEA, Eclipse, VS Code...)
 
-Leitura de dados com Scanner;
+---
 
-Manipulação de variáveis e lógica condicional;
+## 🎯 Objetivos do projeto
 
-Organização de código em métodos principais.
+- Praticar lógica de programação
+- Utilizar estruturas de repetição (`while`) e decisão (`switch`)
+- Trabalhar com variáveis, tipos de dados e entrada do usuário
+- Simular um fluxo básico de sistema bancário
+
+---
+
+## 🧠 Aprendizados
+
+- Estrutura básica de um programa em Java  
+- Leitura e manipulação de dados com `Scanner`  
+- Controle de fluxo com `switch` e `if/else`  
+- Simulação de operações financeiras simples  
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+
+
